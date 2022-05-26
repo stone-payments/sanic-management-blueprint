@@ -6,7 +6,7 @@ idna==2.8
 requests==2.22.0
 sanic==0.7.0
 sanic-management-blueprint==0.1.0
-ujson==1.35
+ujson==5.2.0
 urllib3==1.25.3
 uvloop==0.9.1
 websockets==4.0.1
