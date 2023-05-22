@@ -3,7 +3,7 @@ certifi==2019.6.16
 chardet==3.0.4
 httptools==0.0.10
 idna==2.8
-requests==2.22.0
+requests==2.31.0
 sanic==0.7.0
 sanic-management-blueprint==0.1.0
 ujson==1.35
